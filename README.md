@@ -1,7 +1,20 @@
 # piaa
-Pico Industrial Abierta Argentina.
+PIAA, inspired by the [CIAA project](https://github.com/ciaa/Hardware).
 
-Inspired by the CIAA project.
+
+The PIAA is a open source [printed cicuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) design for use in industrial settings where [electromagnetic interference](https://en.wikipedia.org/wiki/Electromagnetic_interference) is of great concern. The on board processor is intended to be the RP2040 contained in the [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) package
+
+Features:
+- All I/O except for GPIO header come with extensive EMI protection.
+- Wide temperature range components.
+- 1 RS485 peripheral using MAX3072E.
+- 6 Digital outputs with PWM capabilities.
+- 4 digital inputs.
+- Powered be 6-24V input.
+- 8 additional GPIO on header with SPI, I2C, UART, PWM, PIO capabilities. This header is connected to GPIO0 through GPIO7.
+- Regulated 3.3V and 5V outputs.
+
+![](./docs/piaa3d.png)
 
 # Project setup
 I'd believe the project should be set automatically since I've taken care to include all libraries as "Project" libraries, not "Global". 
