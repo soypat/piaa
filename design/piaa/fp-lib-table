@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/home/pato/src/ongoing/piaa/submodules/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "piaalib")(type "KiCad")(uri "/home/pato/src/ongoing/piaa/design/lib/piaalib.pretty")(options "")(descr ""))
+)
