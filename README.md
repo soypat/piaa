@@ -13,8 +13,10 @@ Features:
 - Powered be 6-24V input.
 - 8 additional GPIO on header with SPI, I2C, UART, PWM, PIO capabilities. This header is connected to GPIO0 through GPIO7.
 - Regulated 3.3V and 5V outputs.
+- Grounded padding on sides of Proant wifi/bluetooth antenna to potentially increase antenna gain.
 
 ![](./docs/piaa3d.png)
+![](./docs/piaa_layout.png)
 
 # Project setup
 I'd believe the project should be set automatically since I've taken care to include all libraries as "Project" libraries, not "Global". 
