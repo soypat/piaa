@@ -18,7 +18,9 @@ Features:
 ![](./docs/piaa3d.png)
 ![](./docs/piaa_layout.png)
 
-# Project setup
+# Kicad: Project setup
+This project was made entirely with Kicad.
+
 I'd believe the project should be set automatically since I've taken care to include all libraries as "Project" libraries, not "Global". 
 In any case, if that fails you may follow the steps detailed here to setup any symbol, footprint and 3D model libraries that may be needed
 to work or visualize the PIAA.
