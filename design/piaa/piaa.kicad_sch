@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PIAA")
+    (date "5 March 2023")
+    (rev "A.0")
+    (company "Patricio Whittingslow")
+  )
+
   (lib_symbols
     (symbol "Connector:Screw_Terminal_01x03" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 5.08 0)
