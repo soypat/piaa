@@ -1317,7 +1317,7 @@
     (uuid 4fc6b216-318e-4955-9b3e-ba0aeac990a8)
     (property "Reference" "J8" (id 0) (at 72.39 87.63 0))
     (property "Value" "Screw_Terminal_01x02" (id 1) (at 66.04 95.25 0))
-    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" (id 2) (at 72.39 90.17 0)
+    (property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" (id 2) (at 72.39 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 72.39 90.17 0)
